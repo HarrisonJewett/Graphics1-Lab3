@@ -1,0 +1,13 @@
+﻿  XTime.cpp
+  RasterSurface.cpp
+e:\projects\z_finished\graphics 1\labs\lab3\lab3\rastersurface.cpp(109): warning C4838: conversion from 'unsigned int' to 'LONG' requires a narrowing conversion
+  main.cpp
+e:\projects\z_finished\graphics 1\labs\lab3\lab3\draw.h(72): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+e:\projects\z_finished\graphics 1\labs\lab3\lab3\draw.h(82): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+e:\projects\z_finished\graphics 1\labs\lab3\lab3\main.cpp(52): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+e:\projects\z_finished\graphics 1\labs\lab3\lab3\main.cpp(53): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+e:\projects\z_finished\graphics 1\labs\lab3\lab3\main.cpp(55): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+e:\projects\z_finished\graphics 1\labs\lab3\lab3\main.cpp(56): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+e:\projects\z_finished\graphics 1\labs\lab3\lab3\main.cpp(64): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+  Lab3.vcxproj -> E:\Projects\z_Finished\Graphics 1\Labs\Lab3\Debug\Lab3.exe
